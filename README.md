@@ -1,26 +1,15 @@
-\# Coding Café
 
-
+# Coding Café
 
 Lab work for Coding Café, FM102.
 
+**Name:** Meet Patel
 
+**Roll number:** U20260306
 
-\*\*Meet Patel:\*\* Your Name
+## Contents
 
-\*\*Roll number:\*\* U20260306
-
-
-
-\## Contents
-
-
-
-\- `lab1/` — terminal
-
-\- `lab2/` — variables, types, operations, I/O
-
-\- `lab3/` — conditionals and loops
-
-\- `lab4/` — git and github
-
+- `lab1/` — terminal
+- `lab2/` — variables, types, operations, I/O
+- `lab3/` — conditionals and loops
+- `lab4/` — git and github
