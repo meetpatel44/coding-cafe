@@ -64,9 +64,7 @@ The `.gitignore` file itself should be committed rather than ignored. It contain
 
 
 
-Git displayed a confirmation message indicating that the commit was successfully created, along with a summary of the files changed and the number of insertions and deletions. The initial commit included two files, `.gitignore` and `README.md`, according to the previously recorded repository notes.
-
-
+Git confirmed that the commit named Lab work so far was successfully created. Its summary showed that 2 files changed, with 4 insertions and no deletions. The two files were .gitignore and README.md.
 
 \## Question 8: What are the first seven characters of your commit called, and what are they for?
 
